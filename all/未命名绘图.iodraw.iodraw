@@ -10,7 +10,7 @@
         <mxCell id="lb8Qlwy0kFhW-kqcGp6J-1" value="&lt;span style=&quot;font-family: Arial; font-size: 10pt;&quot;&gt;Sentinel-2&lt;font face=&quot;宋体&quot;&gt;光学影像&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="50" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lb8Qlwy0kFhW-kqcGp6J-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="lb8Qlwy0kFhW-kqcGp6J-2" value="Google Earth Engine (GEE)&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="160" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
