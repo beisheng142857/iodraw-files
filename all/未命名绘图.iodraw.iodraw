@@ -23,10 +23,10 @@
           <mxGeometry x="248" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lb8Qlwy0kFhW-kqcGp6J-6" value="模型精度评估" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="148" y="460" width="120" height="60" as="geometry" />
+          <mxGeometry x="148" y="450" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lb8Qlwy0kFhW-kqcGp6J-7" value="农业干旱时空动态分布图" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="352" y="460" width="120" height="60" as="geometry" />
+          <mxGeometry x="352" y="450" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lb8Qlwy0kFhW-kqcGp6J-10" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="UhDh1706sss60L_iuY45-1" target="lb8Qlwy0kFhW-kqcGp6J-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -59,12 +59,6 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="lb8Qlwy0kFhW-kqcGp6J-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lb8Qlwy0kFhW-kqcGp6J-3" target="lb8Qlwy0kFhW-kqcGp6J-5">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="370" as="sourcePoint" />
-            <mxPoint x="440" y="320" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="lb8Qlwy0kFhW-kqcGp6J-16" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.542;exitY=1.122;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lb8Qlwy0kFhW-kqcGp6J-5" target="lb8Qlwy0kFhW-kqcGp6J-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="370" as="sourcePoint" />
             <mxPoint x="440" y="320" as="targetPoint" />
