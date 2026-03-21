@@ -22,7 +22,10 @@
         <mxCell id="lb8Qlwy0kFhW-kqcGp6J-5" value="&lt;span data-index-in-node=&quot;28&quot; data-path-to-node=&quot;13,1,1,1,1,0,0&quot;&gt;结合&lt;/span&gt;&lt;b data-index-in-node=&quot;28&quot; data-path-to-node=&quot;13,1,1,1,1,0,0&quot;&gt;双重注意力机制&lt;/b&gt;&lt;span data-index-in-node=&quot;28&quot; data-path-to-node=&quot;13,1,1,1,1,0,0&quot;&gt;的ConvLSTM模型&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="330" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lb8Qlwy0kFhW-kqcGp6J-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="lb8Qlwy0kFhW-kqcGp6J-6" value="模型精度评估" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lb8Qlwy0kFhW-kqcGp6J-7" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="310" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
