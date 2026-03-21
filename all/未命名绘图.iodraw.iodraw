@@ -58,6 +58,12 @@
         <mxCell id="lb8Qlwy0kFhW-kqcGp6J-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.474;entryY=-0.03;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="lb8Qlwy0kFhW-kqcGp6J-5" target="lb8Qlwy0kFhW-kqcGp6J-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="lb8Qlwy0kFhW-kqcGp6J-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lb8Qlwy0kFhW-kqcGp6J-26" target="lb8Qlwy0kFhW-kqcGp6J-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lb8Qlwy0kFhW-kqcGp6J-26" value="Google Earth Engine (GEE)&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
