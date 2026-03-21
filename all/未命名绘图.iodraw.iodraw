@@ -19,8 +19,8 @@
         <mxCell id="lb8Qlwy0kFhW-kqcGp6J-4" value="伪标签" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="230" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lb8Qlwy0kFhW-kqcGp6J-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="310" width="120" height="60" as="geometry" />
+        <mxCell id="lb8Qlwy0kFhW-kqcGp6J-5" value="&amp;nbsp;嵌入 &lt;b data-index-in-node=&quot;28&quot; data-path-to-node=&quot;13,1,1,1,1,0,0&quot;&gt;CBAM 双重注意力机制&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="330" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
