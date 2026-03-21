@@ -19,6 +19,9 @@
         <mxCell id="lb8Qlwy0kFhW-kqcGp6J-4" value="伪标签" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="352" y="260" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="lb8Qlwy0kFhW-kqcGp6J-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lb8Qlwy0kFhW-kqcGp6J-5" target="lb8Qlwy0kFhW-kqcGp6J-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="lb8Qlwy0kFhW-kqcGp6J-5" value="&lt;span data-index-in-node=&quot;28&quot; data-path-to-node=&quot;13,1,1,1,1,0,0&quot;&gt;结合&lt;/span&gt;&lt;b data-index-in-node=&quot;28&quot; data-path-to-node=&quot;13,1,1,1,1,0,0&quot;&gt;双重注意力机制&lt;/b&gt;&lt;span data-index-in-node=&quot;28&quot; data-path-to-node=&quot;13,1,1,1,1,0,0&quot;&gt;的ConvLSTM模型&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="248" y="360" width="120" height="60" as="geometry" />
         </mxCell>
@@ -64,11 +67,8 @@
             <mxPoint x="440" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lb8Qlwy0kFhW-kqcGp6J-21" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="410" y="450" as="sourcePoint" />
-            <mxPoint x="460" y="400" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="lb8Qlwy0kFhW-kqcGp6J-22" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=default;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="450" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
