@@ -16,7 +16,7 @@
         <mxCell id="lb8Qlwy0kFhW-kqcGp6J-3" value="遥感数据特征集" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="230" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lb8Qlwy0kFhW-kqcGp6J-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="lb8Qlwy0kFhW-kqcGp6J-4" value="伪标签" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="230" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
