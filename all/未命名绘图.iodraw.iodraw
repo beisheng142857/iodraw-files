@@ -59,10 +59,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="u8auwIgYWkAn9tyYWQ_7-8" value="增强输入 &lt;br&gt;X_t^attn" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="260" y="700" width="120" height="60" as="geometry" />
+          <mxGeometry x="260" y="700" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="u8auwIgYWkAn9tyYWQ_7-10" value="ConvLSTM 时空递归建模模块（状态更新）" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="260" y="800" width="120" height="60" as="geometry" />
+          <mxGeometry x="230" y="800" width="180" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
