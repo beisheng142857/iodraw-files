@@ -24,8 +24,14 @@
         <mxCell id="20L0yxsyz_8Aw-_60YVm-2" value="&lt;p data-pm-slice=&quot;0 0 []&quot;&gt;数据加载→滑窗构样本→模型训练→验证→测试&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="320" y="230" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="u8auwIgYWkAn9tyYWQ_7-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="u8auwIgYWkAn9tyYWQ_7-1" target="u8auwIgYWkAn9tyYWQ_7-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="u8auwIgYWkAn9tyYWQ_7-1" value="&lt;div&gt;历史多源输入序列&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;X(t-T+1)…X(t)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="350" y="610" width="120" height="60" as="geometry" />
+          <mxGeometry x="170" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="u8auwIgYWkAn9tyYWQ_7-2" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="170" y="460" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
