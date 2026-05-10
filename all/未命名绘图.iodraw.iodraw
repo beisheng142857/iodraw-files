@@ -43,7 +43,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="u8auwIgYWkAn9tyYWQ_7-5" value="隐状态引导注意力增强模块" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="260" y="600" width="120" height="60" as="geometry" />
+          <mxGeometry x="260" y="600" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="u8auwIgYWkAn9tyYWQ_7-7" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="u8auwIgYWkAn9tyYWQ_7-5" target="u8auwIgYWkAn9tyYWQ_7-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -59,10 +59,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="u8auwIgYWkAn9tyYWQ_7-8" value="增强输入 &lt;br&gt;X_t^attn" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="260" y="700" width="120" height="40" as="geometry" />
+          <mxGeometry x="260" y="680" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="u8auwIgYWkAn9tyYWQ_7-10" value="ConvLSTM 时空递归建模模块（状态更新）" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="230" y="800" width="180" height="60" as="geometry" />
+          <mxGeometry x="230" y="750" width="180" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
