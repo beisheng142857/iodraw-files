@@ -30,11 +30,17 @@
         <mxCell id="u8auwIgYWkAn9tyYWQ_7-1" value="&lt;div&gt;历史多源输入序列&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;X(t-T+1)…X(t)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="170" y="350" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="u8auwIgYWkAn9tyYWQ_7-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="u8auwIgYWkAn9tyYWQ_7-2" target="u8auwIgYWkAn9tyYWQ_7-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="u8auwIgYWkAn9tyYWQ_7-2" value="当前时刻输入 X_t" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="170" y="460" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="u8auwIgYWkAn9tyYWQ_7-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="u8auwIgYWkAn9tyYWQ_7-4" value="历史隐状态 H(t-1)&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="340" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="u8auwIgYWkAn9tyYWQ_7-5" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="170" y="600" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
