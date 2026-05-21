@@ -5,7 +5,11 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="mueqG3QYBbKLFtCVpI9t-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mueqG3QYBbKLFtCVpI9t-1" target="mueqG3QYBbKLFtCVpI9t-7">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="385" y="100" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="mueqG3QYBbKLFtCVpI9t-1" value="历史隐状态&lt;br&gt;H_{t-1}" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="60" width="90" height="80" as="geometry" />
@@ -31,7 +35,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="mueqG3QYBbKLFtCVpI9t-7" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=default;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="485" y="250" width="20" height="20" as="geometry" />
+          <mxGeometry x="375" y="230" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
