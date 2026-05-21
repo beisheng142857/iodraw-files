@@ -47,8 +47,8 @@
         <mxCell id="mueqG3QYBbKLFtCVpI9t-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="350" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mueqG3QYBbKLFtCVpI9t-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="350" width="120" height="60" as="geometry" />
+        <mxCell id="mueqG3QYBbKLFtCVpI9t-20" value="残差门控自适应增强" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="240" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
