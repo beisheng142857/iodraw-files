@@ -61,10 +61,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="mueqG3QYBbKLFtCVpI9t-20" value="残差门控自适应增强" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="360" width="120" height="60" as="geometry" />
+          <mxGeometry x="250" y="590" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mueqG3QYBbKLFtCVpI9t-22" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="240" y="610" width="120" height="40" as="geometry" />
+          <mxGeometry x="260" y="610" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
