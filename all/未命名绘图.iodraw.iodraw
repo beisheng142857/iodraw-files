@@ -42,7 +42,7 @@
           <mxGeometry x="375" y="230" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="mueqG3QYBbKLFtCVpI9t-9" value="非线性融合&lt;div&gt;将对齐后的特征进行逐&lt;/div&gt;&lt;div&gt;元素相加，并通过Tanh&lt;/div&gt;&lt;div&gt;激活函数融合为中间矩&lt;/div&gt;&lt;div&gt;阵Zt&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="320" width="150" height="110" as="geometry" />
+          <mxGeometry x="310" y="320" width="150" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
