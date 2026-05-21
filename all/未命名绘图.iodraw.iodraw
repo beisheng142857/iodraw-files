@@ -39,10 +39,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mueqG3QYBbKLFtCVpI9t-14" value="非线性融合&lt;br&gt;将对齐后的特征进行逐元素相加，并通过Tanh激活函数融合为中间矩阵Z_t" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="340" width="120" height="100" as="geometry" />
+          <mxGeometry x="320" y="340" width="130" height="100" as="geometry" />
         </mxCell>
         <mxCell id="mueqG3QYBbKLFtCVpI9t-16" value="注意力权重生成" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="450" width="120" height="60" as="geometry" />
+          <mxGeometry x="330" y="470" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
