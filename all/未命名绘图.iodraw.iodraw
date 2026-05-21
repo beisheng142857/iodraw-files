@@ -71,11 +71,8 @@
         <mxCell id="mueqG3QYBbKLFtCVpI9t-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="mueqG3QYBbKLFtCVpI9t-20" target="mueqG3QYBbKLFtCVpI9t-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mueqG3QYBbKLFtCVpI9t-29" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="550" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="mueqG3QYBbKLFtCVpI9t-30" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="550" width="120" height="60" as="geometry" />
+        <mxCell id="mueqG3QYBbKLFtCVpI9t-30" value="时空递归建模与输出" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="700" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
