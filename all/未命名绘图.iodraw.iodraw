@@ -15,6 +15,9 @@
         <mxCell id="mueqG3QYBbKLFtCVpI9t-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="mueqG3QYBbKLFtCVpI9t-2" target="mueqG3QYBbKLFtCVpI9t-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="mueqG3QYBbKLFtCVpI9t-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="mueqG3QYBbKLFtCVpI9t-2" target="mueqG3QYBbKLFtCVpI9t-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="mueqG3QYBbKLFtCVpI9t-2" value="多源数据输入端&lt;br&gt;(当前时刻输入X_t，包含10维多源遥感特征张量" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="60" width="190" height="80" as="geometry" />
         </mxCell>
@@ -44,11 +47,8 @@
         <mxCell id="mueqG3QYBbKLFtCVpI9t-16" value="注意力权重生成" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="470" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mueqG3QYBbKLFtCVpI9t-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="350" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="mueqG3QYBbKLFtCVpI9t-20" value="残差门控自适应增强" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="240" width="120" height="60" as="geometry" />
+          <mxGeometry x="120" y="360" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
