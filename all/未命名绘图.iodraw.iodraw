@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="mueqG3QYBbKLFtCVpI9t-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="mueqG3QYBbKLFtCVpI9t-1" value="多源数据输入端&lt;br&gt;(当前时刻输入X_t，包含10维多源遥感特征张量" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="40" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
