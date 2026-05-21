@@ -35,8 +35,14 @@
         <mxCell id="mueqG3QYBbKLFtCVpI9t-11" value="特征投影" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="240" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="mueqG3QYBbKLFtCVpI9t-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mueqG3QYBbKLFtCVpI9t-14" target="mueqG3QYBbKLFtCVpI9t-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="mueqG3QYBbKLFtCVpI9t-14" value="非线性融合" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mueqG3QYBbKLFtCVpI9t-16" value="非线性融合" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="440" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
