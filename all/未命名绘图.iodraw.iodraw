@@ -75,7 +75,7 @@
           <mxGeometry x="240" y="700" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mueqG3QYBbKLFtCVpI9t-31" value="&lt;b&gt;&lt;font color=&quot;#ff9933&quot; style=&quot;font-size: 14px;&quot;&gt;注意力模块&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="490" y="360" width="60" height="30" as="geometry" />
+          <mxGeometry x="500" y="350" width="80" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
