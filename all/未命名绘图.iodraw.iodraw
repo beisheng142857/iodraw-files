@@ -4,8 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="mueqG3QYBbKLFtCVpI9t-1" value="多源数据输入端&lt;br&gt;(当前时刻输入X_t，包含10维多源遥感特征张量" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="50" width="190" height="80" as="geometry" />
+        <mxCell id="mueqG3QYBbKLFtCVpI9t-1" value="历史隐状态&lt;br&gt;H_{t-1}" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="60" width="190" height="80" as="geometry" />
         </mxCell>
         <mxCell id="mueqG3QYBbKLFtCVpI9t-2" value="多源数据输入端&lt;br&gt;(当前时刻输入X_t，包含10维多源遥感特征张量" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="60" width="190" height="80" as="geometry" />
