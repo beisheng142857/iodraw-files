@@ -53,13 +53,18 @@
           <mxGeometry x="330" y="470" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mueqG3QYBbKLFtCVpI9t-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mueqG3QYBbKLFtCVpI9t-20" target="mueqG3QYBbKLFtCVpI9t-22">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="180" y="590" />
+              <mxPoint x="300" y="590" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="mueqG3QYBbKLFtCVpI9t-20" value="残差门控自适应增强" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mueqG3QYBbKLFtCVpI9t-22" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="120" y="500" width="120" height="60" as="geometry" />
+          <mxGeometry x="240" y="610" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
