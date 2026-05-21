@@ -4,6 +4,11 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="mueqG3QYBbKLFtCVpI9t-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="mueqG3QYBbKLFtCVpI9t-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="mueqG3QYBbKLFtCVpI9t-1" value="历史隐状态&lt;br&gt;H_{t-1}" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="60" width="90" height="80" as="geometry" />
         </mxCell>
@@ -25,9 +30,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="mueqG3QYBbKLFtCVpI9t-9" value="非线性融合&lt;div&gt;将对齐后的特征进行逐&lt;/div&gt;&lt;div&gt;元素相加，并通过Tanh&lt;/div&gt;&lt;div&gt;激活函数融合为中间矩&lt;/div&gt;&lt;div&gt;阵Z_t&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="325" y="420" width="150" height="100" as="geometry" />
+          <mxGeometry x="315" y="340" width="150" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="mueqG3QYBbKLFtCVpI9t-11" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="mueqG3QYBbKLFtCVpI9t-11" value="特征投影" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="240" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
